@@ -60,7 +60,7 @@
 }
 
 .let-connect-link { text-decoration: none; }
-.let-connect-link:hover { color: aquamarine; }
+.let-connect-link:hover { color:aquamarine; }
 
 .social-icons {
   display: flex;
