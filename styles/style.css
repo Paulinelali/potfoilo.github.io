@@ -41,7 +41,7 @@
   align-items: flex-start;
   gap: 12px;
   padding: 114px 24px;
-  background-image: url("../assets/header-shapes\ mobile.png")
+  background-image: url("../assets/header-shapes\ mobile.png");
 }
 
 .intro-title {
@@ -49,9 +49,8 @@
   font-style: normal;
   font-size: 40px;
   line-height: 52px;
-  color: #172B4D;
+  color: #172b4d;
   font-weight: 700;
-
 }
 
 .intro-paragraph {
