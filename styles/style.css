@@ -35,20 +35,23 @@
   position: absolute;
   height: 604px;
   left: 2px;
-  top: 0;
+  top: 104px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 12px;
   padding: 114px 24px;
+  background-image: url("../assets/header-shapes\ mobile.png")
 }
 
 .intro-title {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-  font-weight: 700;
   font-size: 40px;
   line-height: 52px;
+  color: #172B4D;
+  font-weight: 700;
+
 }
 
 .intro-paragraph {
