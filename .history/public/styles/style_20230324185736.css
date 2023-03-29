@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-inner{
+    position: absolute;
+    width: 100%;
+    height: 48px;
+    top: 44px;
+}
+
+.header-mobile-icon{
+    width: 40px;
+    
+}
