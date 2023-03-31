@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #E5E5E5;
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.nav{
+  display: flex;
+}

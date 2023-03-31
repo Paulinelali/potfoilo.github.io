@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #E5E5E5;
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 24px;
+  background-color: white;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.introc-content{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 128px 0px;
+  background-image: url("")
+
+}
