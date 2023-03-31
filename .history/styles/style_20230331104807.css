@@ -66,7 +66,7 @@ body {
 }
 
 .introc-content p {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -95,7 +95,7 @@ body {
 }
 
 .card-wrapper h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -104,7 +104,7 @@ body {
 }
 
 .card-wrapper p {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -131,7 +131,7 @@ body {
 }
 
 .canopy-list li:nth-child(1) {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -142,7 +142,7 @@ body {
 .canopy-list li:nth-child(3),
 .canopy-list li:nth-child(5) {
   color: #7a869a;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -166,7 +166,7 @@ body {
 
 .see-projects-btn {
   padding: 12px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -196,7 +196,7 @@ body {
 }
 
 .last-section h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -207,7 +207,7 @@ body {
 }
 
 .last-section p {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -216,7 +216,7 @@ body {
 }
 
 .last-section > h3 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -230,7 +230,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding-right: 25px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -250,7 +250,7 @@ body {
   display: flex;
   gap: 16px;
   align-items: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -291,7 +291,7 @@ body {
 }
 
 .footer-text h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -302,7 +302,7 @@ body {
 }
 
 .footer-text p {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -325,7 +325,7 @@ form input {
 form input,
 form textarea {
   padding: 15px 16px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   line-height: 20px;
@@ -341,7 +341,7 @@ form textarea {
 
 .footer-submit-btn {
   width: 50%;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
