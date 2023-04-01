@@ -80,6 +80,7 @@ body {
 
 .social-icons {
   display: flex;
+  align-items: baseline;
   gap: 12px;
 }
 
