@@ -235,7 +235,7 @@ Christian
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MIT LICENSE -->
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
