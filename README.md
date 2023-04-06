@@ -2,6 +2,7 @@
 This project is my personal portfolio development at the start of Microverse.
 
 Microverse already prepared template in figma for all students to replicate. This is also a milestone project so not everything was completed at a go.
+This milestone is the desktop version
 
 <a name="readme-top"></a>
 
@@ -68,7 +69,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
 
-setup and mobile first is a simple personal portfolio project using mobile first approach to make it look good on mobile/
+This is the desktop version of my personal portfolio mobile first approach at microverse/
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -103,7 +104,7 @@ setup and mobile first is a simple personal portfolio project using mobile first
 
 > Describe between 1-3 key features of the application.
 
--Html file with a single header element 
+-Desktop version of my personal portfolio at microverse 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
