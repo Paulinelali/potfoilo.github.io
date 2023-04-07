@@ -1,8 +1,5 @@
 # Personal-portfolio-microverse
-This project is my personal portfolio development at the start of Microverse.
-
-Microverse already prepared template in figma for all students to replicate. This is also a milestone project so not everything was completed at a go.
-This milestone is the desktop version
+My personal portfolio project at Microversee
 
 <a name="readme-top"></a>
 
@@ -33,10 +30,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Ayomid s.e.p README </b></h3>
 
 </div>
 
@@ -69,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
 
-This is the desktop version of my personal portfolio mobile first approach at microverse/
+This is my personal portfolio project with mobile first approach. I will be add animation and more feature later on.
 
 ## 🛠 Built With <a name="built-with"></a>
 

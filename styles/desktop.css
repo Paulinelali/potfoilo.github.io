@@ -113,10 +113,6 @@ body {
 
 .see-projects-btn {
   margin-top: 40px;
-
-  /* background: rgba(64, 83, 252, 1);
-    */
-
   padding: 24px;
   font-style: normal;
   font-weight: 500;
@@ -130,6 +126,15 @@ body {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  transition: hover 2s ease-in-out;
+  -webkit-transition: hover 2s ease-in-out;
+  -moz-transition: hover 2s ease-in-out;
+  -ms-transition: hover 2s ease-in-out;
+  -o-transition: hover 2s ease-in-out;
+}
+
+@keyframes hover {
+        
 }
 
 ul {
@@ -281,23 +286,6 @@ form {
   text-align: center;
   gap: 12px;
 }
-
-/* form{
-    display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-gap: 24px;
-width: 801px;
-margin: auto;
-padding: 0px 177px;
-background-color: teal
-}
-
-form input{
-    width: 100%;
-    height: 48px;
-} */
 
 form {
   padding: 0 116px;
