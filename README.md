@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
 
-My first major project at Microverse titled #Personal Portfolio
+My first major project at Microverse
 This is a milestone project which means features will be added in phases.
 
 
@@ -99,7 +99,12 @@ This is a milestone project which means features will be added in phases.
 
 ### Key Features <a name="key-features"></a>
 
-Portfolio project that contain my works, contact info and little info about me😎 
+<ul>
+<li>[Represent my recent works]</li>
+<li>[Represent my skills and used technologies]</li>
+<li>[My contact info😎]</li>
+<li>[Mobile and desktop responsiveness]</li>
+</ul> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
