@@ -134,15 +134,15 @@ body {
 }
 
 .see-projects-btn:hover {
-    background-color: teal;
-    color: white;
-    rotate: 10deg;
-    border: none
+  background-color: teal;
+  color: white;
+  rotate: 10deg;
+  border: none;
 }
 
 ul {
-    list-style-type: none;
-    padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 .tech-used li {
