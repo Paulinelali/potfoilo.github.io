@@ -1,5 +1,4 @@
-# Personal-portfolio-microverse
-My personal portfolio project at Microversee
+# Personal-Portfolio-Project
 
 <a name="readme-top"></a>
 
@@ -31,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-  <h3><b>Ayomid s.e.p README </b></h3>
+  <h3><b>#Ayomid s.e.p Portfolio </b></h3>
 
 </div>
 
@@ -39,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [Personal-portfolio-microverse](#personal-portfolio-microverse)
+- [Personal-Portfolio-Project](#personal-portfolio-project)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 setup and mobile first Project ](#-setup-and-mobile-first-project-)
   - [🛠 Built With ](#-built-with-)
@@ -64,7 +63,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
 
-This is my personal portfolio project with mobile first approach. I will be add animation and more feature later on.
+My first major project at Microverse titled #Personal Portfolio
+This is a milestone project which means features will be added in phases.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,9 +98,7 @@ This is my personal portfolio project with mobile first approach. I will be add 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
--Desktop version of my personal portfolio at microverse 
+Portfolio project that contain my works, contact info and little info about me😎 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
