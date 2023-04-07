@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-  <h3><b>#Ayomid s.e.p Portfolio </b></h3>
+  # Ayomid s.e.p Portfolio
 
 </div>
 
@@ -39,6 +39,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [Personal-Portfolio-Project](#personal-portfolio-project)
+- [Ayomid s.e.p Portfolio](#ayomid-sep-portfolio)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 setup and mobile first Project ](#-setup-and-mobile-first-project-)
   - [🛠 Built With ](#-built-with-)
