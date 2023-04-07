@@ -134,7 +134,7 @@ body {
 }
 
 .see-projects-btn:hover {
-  background-color: teal;
+  background-color: rgba(64, 83, 252, 1);
   color: white;
   rotate: 10deg;
   border: none;
@@ -241,6 +241,12 @@ ul {
   justify-content: space-between;
 }
 
+.language-item h3,
+.frameworks-item h3,
+.skills-item h3 {
+  color: rgba(52, 69, 99, 1);
+}
+
 .language-list {
   gap: 12px;
 }
@@ -263,6 +269,7 @@ ul {
 footer {
   background: rgba(96, 112, 255, 1);
   background-image: url("../assets/desktop_images/contact\ form\ background\ shapes.png");
+  background-repeat: no-repeat;
   background-position-x: center;
   margin-top: -70px;
   padding-top: 142px;
