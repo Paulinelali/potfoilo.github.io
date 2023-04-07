@@ -126,15 +126,18 @@ body {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
-  transition: hover 2s ease-in-out;
-  -webkit-transition: hover 2s ease-in-out;
-  -moz-transition: hover 2s ease-in-out;
-  -ms-transition: hover 2s ease-in-out;
-  -o-transition: hover 2s ease-in-out;
+  transition: background-color 1s, color .5s, rotate .8s ease-in-out;
+  -webkit-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
+  -moz-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
+  -ms-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
+  -o-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
 }
 
-@keyframes hover {
-        
+.see-projects-btn:hover {
+    background-color: teal;
+    color: white;
+    rotate: 10deg;
+    border: none
 }
 
 ul {
