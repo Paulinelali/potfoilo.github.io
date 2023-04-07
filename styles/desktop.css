@@ -126,11 +126,11 @@ body {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
-  transition: background-color 1s, color .5s, rotate .8s ease-in-out;
-  -webkit-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
-  -moz-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
-  -ms-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
-  -o-transition: background-color 1s, color .5s, rotate .8s ease-in-out;
+  transition: background-color 1s, color 0.5s, rotate 0.8s ease-in-out;
+  -webkit-transition: background-color 1s, color 0.5s, rotate 0.8s ease-in-out;
+  -moz-transition: background-color 1s, color 0.5s, rotate 0.8s ease-in-out;
+  -ms-transition: background-color 1s, color 0.5s, rotate 0.8s ease-in-out;
+  -o-transition: background-color 1s, color 0.5s, rotate 0.8s ease-in-out;
 }
 
 .see-projects-btn:hover {
@@ -141,8 +141,8 @@ body {
 }
 
 ul {
-  list-style-type: none;
-  padding: 0;
+    list-style-type: none;
+    padding: 0;
 }
 
 .tech-used li {
