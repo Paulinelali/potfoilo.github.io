@@ -1,8 +1,4 @@
-# Personal-portfolio-microverse
-This project is my personal portfolio development at the start of Microverse.
-
-Microverse already prepared template in figma for all students to replicate. This is also a milestone project so not everything was completed at a go.
-This milestone is the desktop version
+# Personal-Portfolio-Project
 
 <a name="readme-top"></a>
 
@@ -33,10 +29,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  # Ayomid s.e.p Portfolio
 
 </div>
 
@@ -44,7 +38,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [Personal-portfolio-microverse](#personal-portfolio-microverse)
+- [Personal-Portfolio-Project](#personal-portfolio-project)
+- [Ayomid s.e.p Portfolio](#ayomid-sep-portfolio)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 setup and mobile first Project ](#-setup-and-mobile-first-project-)
   - [🛠 Built With ](#-built-with-)
@@ -69,7 +64,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
 
-This is the desktop version of my personal portfolio mobile first approach at microverse/
+My first major project at Microverse
+This is a milestone project which means features will be added in phases.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,9 +99,12 @@ This is the desktop version of my personal portfolio mobile first approach at mi
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
--Desktop version of my personal portfolio at microverse 
+<ul>
+<li>[Represent my recent works]</li>
+<li>[Represent my skills and used technologies]</li>
+<li>[My contact info😎]</li>
+<li>[Mobile and desktop responsiveness]</li>
+</ul> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
