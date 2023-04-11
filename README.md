@@ -111,10 +111,8 @@ This is a milestone project which means features will be added in phases.
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo 
+https://paulinelali.github.io/potfoilo.github.io/
 
-
-
-N/A
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
