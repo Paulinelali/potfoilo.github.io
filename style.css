@@ -51,7 +51,7 @@ body {
   flex-direction: column;
   gap: 12px;
   padding: 128px 0;
-  background-image: url("../assets/header-shapes\ mobile.png");
+  background-image: url("../Personal-portfolio-microverse/assets/header-shapes\ mobile.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -294,7 +294,7 @@ ul li {
   flex-direction: column;
   gap: 20px;
   background: rgba(96, 112, 255, 1);
-  background-image: url("../assets/contact\ form\ shapes-mobile.png");
+  background-image: url("../Personal-portfolio-microverse/assets/contact\ form\ shapes-mobile.png");
   background-position: 100% 0%;
   background-repeat: no-repeat;
   padding-top: 103px;
