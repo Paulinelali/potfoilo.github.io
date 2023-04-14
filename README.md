@@ -4,8 +4,6 @@
 
 <!--
 HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
 Modify this file to match your project and remove sections that don't apply.
 
 REQUIRED SECTIONS:
@@ -63,6 +61,7 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 setup and mobile first Project <a name="about-project"></a>
+#Project presentation(https://www.loom.com/share/f39c71dbc7814c3283287712da5e8f9e)
 
 My first major project at Microverse
 This is a milestone project which means features will be added in phases.
